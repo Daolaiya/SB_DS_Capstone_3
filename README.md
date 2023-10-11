@@ -1,0 +1,1 @@
+- Data is available at https://www.kaggle.com/code/stoicstatic/twitter-sentiment-analysis-for-beginners/input
