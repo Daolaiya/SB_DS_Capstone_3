@@ -1,1 +1,1 @@
-- Note that the data file is too large to upload to GitHub but is available at https://drive.google.com/drive/folders/1lVN5U_yBpKh5RgE1WRtaJC5PphQWiRhl?usp=sharing
+- Note that the data file is too large to upload to GitHub but is available at https://www.kaggle.com/datasets/kazanova/sentiment140
